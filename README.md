@@ -81,8 +81,14 @@ python app.py
 - Fernando Rodríguez
 
 ## 8. Declaración de uso de IA
-- **Claude (Anthropic):** apoyo para seleccionar el dataset, generar y explicar el código base del notebook (división de datos, CLIP, fine-tuning) y de `app.py`, y redactar este README. El grupo adaptó el código al problema, ejecutó el entrenamiento, interpretó los resultados y revisó cada parte.
-- **Google Gemini:** genera las recomendaciones dentro de la app.
+
+**Claude (Anthropic)**: apoyo en la selección del dataset, generación y explicación del código base del notebook (división de datos, CLIP y fine-tuning de EfficientNet-B0), desarrollo inicial de app.py y redacción del README.
+
+**ChatGPT (OpenAI)**: herramienta de gran ayuda en la adaptación y revisión de app.py para Streamlit, resolución de errores, análisis de métricas, revisión del repositorio GitHub mediante conectores, integración de Gemini y elaboración de la presentación y documentación del certamen.
+
+**Google Gemini**: integrado en la aplicación para generar recomendaciones preventivas de mantenimiento según la clasificación de imágenes y el nivel de confianza del modelo.
+
+
 
 ## 9. Consideraciones éticas
 Prototipo educativo. No reemplaza la inspección de un técnico calificado. Ante daño eléctrico no se debe manipular el panel. El modelo se entrenó con una sola fuente de imágenes y puede fallar con otros tipos de panel, ángulos o condiciones de luz.
