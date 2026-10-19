@@ -1,6 +1,0 @@
-torch
-torchvision
-timm
-gradio
-google-genai
-pillow
