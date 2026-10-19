@@ -4,7 +4,7 @@ App web que clasifica el estado de un panel solar a partir de una foto y genera 
 
 **Flujo:** 📷 Imagen → 🧠 EfficientNet-B0 (clase + confianza) → 📊 Probabilidades → 💬 Gemini → ✅ Recomendación
 
-🔗 **App publicada:** _[pegar link de Hugging Face Spaces]_
+🔗 **App publicada:** https://certamen1iagenerativa-nlutspz8a8jnmo2zepuy59.streamlit.app/
 
 ---
 
